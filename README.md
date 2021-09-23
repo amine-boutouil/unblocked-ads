@@ -1,4 +1,4 @@
-# unblocked-ads
+# Undetected and Unblocked ADS By Amine Boutouil
 adblock and such softwares or extentions cannot detect or block your ads anymore using Php
 
 ## How it works
