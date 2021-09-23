@@ -2,7 +2,6 @@
 adblock and such softwares or extentions cannot detect or block your ads anymore using Php
 
 ## How it works
-
 Using a random given name of class and div, with [PHP](https://www.php.net/).
 
 ```php
@@ -19,8 +18,20 @@ function generateRandomString($length = 25) {
 ```
 it generates random string, so every time the client block or filter the ad manually at the next refresh of the page it will appear once again with a different name of the class ;)
 
-## Usage
+## Exemple
 
+befor refresh i blocked that element under that name
+<p align="center">
+<img src="https://amine-boutouil.github.io/amine-boutouil/1.png">
+</p>
+
+after the refresh it has a new name and appears again 
+
+<p align="center">
+<img src="https://amine-boutouil.github.io/amine-boutouil/2.png">
+</p>
+
+## Usage
 change the parameters for what will be useful for you and voilaa!
 
 ```php
