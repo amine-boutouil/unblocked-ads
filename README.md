@@ -21,6 +21,8 @@ it generates random string, so every time the client block or filter the ad manu
 
 ## Usage
 
+change the parameters for what will be useful for you and voilaa!
+
 ```php
 #Parameters ~ Change those with what works for you and it's all done!
 $ad_image = "https://www.exemple.tld/image.png";
