@@ -2,7 +2,7 @@
 #####################################################################
 ##                                                                 ##
 ##                Undetected and unremovable ad                    ##
-##                                using php and javascript         ##
+##                                using php                        ##
 ##                       By AMINE BOUTOUIL                         ##
 ##           *** https://github.com/amine-boutouil ***             ##
 ##                                                                 ##
